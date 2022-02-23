@@ -6,7 +6,6 @@ package com.zsp.learn.ktrange
 fun main(){
     val number = 148
 
-
     if(number in 10..59){
         println("不及格")
     }else if(number in 0..9){
